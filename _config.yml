@@ -1,0 +1,28 @@
+name: MitalPatelPhoto
+favicon: null
+layout_spectrum: 0.13091638265177608
+typography_spectrum: 0.19840140896849334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.30423355428501964
+  lightness: 0.2452910258434713
+  saturation: 0.17826456390321255
+  rhythmicContrast: 0.2886367766186595
+purpose: []
