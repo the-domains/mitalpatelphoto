@@ -1,7 +1,7 @@
 name: MitalPatelPhoto
 favicon: null
-layout_spectrum: 0.13091638265177608
-typography_spectrum: 0.19840140896849334
+layout_spectrum: 1
+typography_spectrum: 0.75096
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#0b0a12'
+    - '#fae0e6'
+    - '#3e4e6c'
+    - '#8080a3'
+    - '#de4659'
   brandStrength: 0.30423355428501964
   lightness: 0.2452910258434713
   saturation: 0.17826456390321255
