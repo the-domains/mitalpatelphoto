@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MitalPatelPhoto]]></title>
         <description><![CDATA[MitalPatelPhoto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mitalpatelphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 16:57:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 16:58:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mitalpatelphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de5290df-1159-4979-850f-e23143af1b7c.jpg">]]></description>
+            <link>https://thegrid.ai/mitalpatelphoto/37ee2e0e-2085-43c6-bcd4-0c3623f55ad1/index.html</link>
+            <guid isPermaLink="false">37ee2e0e-2085-43c6-bcd4-0c3623f55ad1</guid>
+            <pubDate>Fri, 22 Jan 2016 16:58:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fa0a10d-25d2-49df-b1ca-64d807c8215f.jpg">]]></description>
-            <link>undefined68812c0e-860e-4218-9205-fd9ac55ae38f/index.html</link>
+            <link>https://thegrid.ai/mitalpatelphoto/68812c0e-860e-4218-9205-fd9ac55ae38f/index.html</link>
             <guid isPermaLink="false">68812c0e-860e-4218-9205-fd9ac55ae38f</guid>
             <pubDate>Fri, 22 Jan 2016 16:57:41 GMT</pubDate>
         </item>
